@@ -1,0 +1,6 @@
+http://hostmaster.wildstat.com
+http://mail.wildstat.com
+http://www.wildstat.com
+https://hostmaster.wildstat.com
+https://mail.wildstat.com
+https://www.wildstat.com
